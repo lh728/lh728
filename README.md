@@ -1,4 +1,4 @@
-### Hi there 👋 I am a student from Trinity College Dublin
+### Hi there 👋 
 
 <!--
 **lh728/lh728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
