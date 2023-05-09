@@ -27,8 +27,6 @@ I am a master's student at [Trinity College Dublin](https://www.tcd.ie/) majorin
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lh728&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   
 ------------
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
