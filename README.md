@@ -6,7 +6,7 @@ I am a master's student at <a href = "https://www.tcd.ie" >Trinity College Dubli
 
 - 🔭 I’m currently studying High Performance Computing and about to do my second masters at Trinity
 - 💬 I am also interested in painting, and I want to try conceptual design in the future
-- 📫 How to reach me: holu@tcd.ie
+- 📫 How to reach me: holu@tcd.ie or my blog: thellu.com
 
 <h3>Things I code with</h3>
 <p>
