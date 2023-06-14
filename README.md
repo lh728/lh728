@@ -27,6 +27,6 @@ I am a master's student at <a href = "https://www.tcd.ie" >Trinity College Dubli
 
 [![Hongjin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lh728&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Hongjin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lh728&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lh728&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lh728&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ------------
