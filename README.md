@@ -2,7 +2,7 @@
 
  
 <p>Welcome to my page! </br> I'm Hongjin Lu, Software developer from <img src="https://user-images.githubusercontent.com/65521533/236996141-91549e02-78a5-46a0-bb3a-099234662d4a.png" width="13"/> <b>Chongqing, China</b>, currently living in <img src="https://user-images.githubusercontent.com/65521533/236995726-d469e555-a22d-4a49-8622-a6d299c16736.png" width="13"/> <b>Dublin, Ireland</b>. </p> 
-I am a master's student at <a href = "https://www.tcd.ie" >Trinity College Dublin</a> majoring in Business Analytics.  
+I was a master's student at <a href = "https://www.tcd.ie" >Trinity College Dublin</a> majoring in Business Analytics.  
 
 - 🔭 I’m currently working at <a href = "https://www.linkedin.com/company/mastercard/posts/?feedView=all">Mastercard</a> as an software engineer.
 - 💬 I am also interested in game development and am self-studying
