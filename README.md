@@ -5,8 +5,8 @@
 I was a master's student at <a href = "https://www.tcd.ie" >Trinity College Dublin</a> majoring in Business Analytics.  
 
 - 🔭 I’m currently working at <a href = "https://www.linkedin.com/company/mastercard/posts/?feedView=all">Mastercard</a> as an software engineer.
-- 💬 I am also interested in game development and am self-studying
-- 📫 How to reach me: holu@tcd.ie or my <a href = "https://thellu.com/en">blog</a>
+- 💬 I am also interested in game development
+- 📫 How to reach me: lhjlslw@gmail.com
 
 <h3>Things I code with</h3>
 <!--  https://dev.to/envoy_/150-badges-for-github-pnk -->
